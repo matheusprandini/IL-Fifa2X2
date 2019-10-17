@@ -1,0 +1,72 @@
+Experiments -> DIL x DAI 5%
+
+--- AGENT DIL --- (A1)
+
+Session 1: 0
+Session 2: 1000
+Session 3: 0
+Session 4: 1000
+Session 5: 1000
+Session 6: 0
+Session 7: 1000
+Session 8: 800
+Session 9: 2000
+Session 10: 2000
+Session 11: 0
+Session 12: 2000
+Session 13: 0
+Session 14: 900
+Session 15: 700
+Session 16: 2800
+Session 17: 1900
+Session 18: 0
+Session 19: 1000
+Session 20: 0
+
+
+--- AGENT DAI 5% --- (A2)
+
+Session 1: 500
+Session 2: 1600
+Session 3: 1800
+Session 4: 0
+Session 5: 1700
+Session 6: 900
+Session 7: 1800
+Session 8: 1600
+Session 9: 2700
+Session 10: 900
+Session 11: 4000
+Session 12: 700
+Session 13: 3800
+Session 14: 1000
+Session 15: 1900
+Session 16: 0
+Session 17: 2800
+Session 18: 1900
+Session 19: 1000
+Session 20: 1900
+
+
+-- NON-EXPERT -- (A3)
+
+Session 1: 3900
+Session 2: 4000
+Session 3: 2800
+Session 4: 4000
+Session 5: 4900
+Session 6: 4000
+Session 7: 2900
+Session 8: 4900
+Session 9: 4000
+Session 10: 4900
+Session 11: 2900
+Session 12: 4000
+Session 13: 3000
+Session 14: 3800
+Session 15: 4000
+Session 16: 2900
+Session 17: 1000
+Session 18: 2900
+Session 19: 1900
+Session 20: 4000
